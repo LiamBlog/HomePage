@@ -11,7 +11,7 @@
 2. **安装依赖**
    ```bash
    # 进入项目目录
-   cd leleo-home-page
+   cd HomePage
    
    # 安装项目依赖
    npm install
