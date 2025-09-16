@@ -1,6 +1,6 @@
 const config = {
-	avatar: "/img/avatar.jpg", // 头像
-	welcometitle: "Hi, I'm LuvGaze", // 标题
+	avatar: "/img/tx.jpg", // 头像
+	welcometitle: "Hi, I'm Shian", // 标题
 
 	// 颜色配置
 	color: {
@@ -187,6 +187,11 @@ const config = {
 				"preview": "/img/wallpaper/dynamic/向往航天的女孩/Toy-Aeroplane-pre.webm",
 				"url": "/img/wallpaper/dynamic/向往航天的女孩/Toy-Aeroplane.webm"
 			},
+			{
+				"title": "世界很温柔《龙族》上杉绘梨衣",
+				"preview": "/img/wallpaper/dynamic/世界很温柔《龙族》上杉绘梨衣/A2EF5E85-pre.webm",
+				"url": "/img/wallpaper/dynamic/世界很温柔《龙族》上杉绘梨衣/A2EF5E85.webm"
+			},
 		],
 		videoMobile: [
 			{
@@ -209,11 +214,14 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "❀ 等风听雨 ︱ 梅花落 ❀", subtitle: "博客，记录日常", text: "If you see this line, I've managed to get your attention.", url: "https://莫慧琳.我爱你/", show: false },
-		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "❀ 念时笺 ❀", subtitle: "OpenList 图床", text: "个人私有图床", url: "http://念时笺.莫慧琳.我爱你/", show: false },
+		{ go: "🚀 前往", img: "/img/pEEZToj.jpg", title: "漫旅绘话", subtitle: "写不了一点", text: "所以你打不开🤣🤣🤣。哈哈，这博客怕是得了“写作拖延症”，连打开都成了“薛定谔的猫”——你不点进去，永远不知道它到底是空的还是满的。或许它正在偷偷酝酿一篇惊天动地的文章，只是还没找到灵感，或者干脆在摸鱼。总之，博客的门关得紧紧的，仿佛在说：“今天不营业，改天再来吧！” 😂", url: "https://www.mlhh.cn", show: false },
+		{ go: "🗂️ 前往", img: "/img/pEEZ0sO.jpg", title: "密钥管理系统", subtitle: "一个简简单单の管理系统", text: "真的就是一个简简单单的密钥系统，你不信？那你打开看看！", url: "https://my.xo0x.cn", show: false },
+		{ go: "📝 前往", img: "/img/pEEZIeg.jpg", title: "FinalShell 激活", subtitle: "偶尔开发の小玩具", text: "一个小玩具而已啦，何必那么认真.", url: "https://js.mlhh.cn", show: false },
+		{ go: "👍 前往", img: "/img/pEEZyod.jpg", title: "发布页", subtitle: "平平无奇の页面", text: "一个单页面，不信？自己打开看！", url: "https://fb.mlhh.cn", show: false },
+		{ go: "🗃 前往", img: "/img/pEEmOqU.png", title: "本站数据报", subtitle: "让你的数据会说话，让你的网站更出彩。", text: "来自51.LA网站统计支持，网站流量、用户行为、转化效果，一屏尽览，让你运筹帷幄之中，决胜千里之外！", url: "https://v6.51.la/report/overview?comId=3092041", show: false },
 	],
 
-	statement: ["备案号：豫ICP备2024089716号", "Copyright © 2025 LuvGaze"],
+	statement: ["备案号：豫ICP备2024077903号", "Copyright © 2025 LuvGaze"],
 }
 
 export default config
