@@ -44,8 +44,7 @@ const config = {
 	//社交按钮
 	socialPlatformIcons: [
 		{ icon: "mdi-github", link: "https://www.github.com/LuvGaze" },
-		{ icon: "mdi-email", link: "mailto:2773434682@qq.com" },
-		{ icon: "mdi-qqchat", link: "https://user.qzone.qq.com/2773434682" },
+		{ icon: "mdi-email", link: "mailto:dave04@foxmail.com" },
 	],
 
 	//打字机
