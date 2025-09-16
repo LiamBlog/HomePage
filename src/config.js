@@ -1,6 +1,6 @@
 const config = {
 	avatar: "/img/tx.jpg", // 头像
-	welcometitle: "Hi, I'm Shian", // 标题
+	welcometitle: "Hi, I'm ShiAn", // 标题
 
 	// 颜色配置
 	color: {
@@ -43,7 +43,7 @@ const config = {
 
 	//社交按钮
 	socialPlatformIcons: [
-		{ icon: "mdi-github", link: "https://www.github.com/LuvGaze" },
+		{ icon: "mdi-github", link: "https://www.github.com/LiamBlog" },
 		{ icon: "mdi-email", link: "mailto:dave04@foxmail.com" },
 	],
 
@@ -220,7 +220,7 @@ const config = {
 		{ go: "🗃 前往", img: "/img/pEEmOqU.png", title: "本站数据报", subtitle: "让你的数据会说话，让你的网站更出彩。", text: "来自51.LA网站统计支持，网站流量、用户行为、转化效果，一屏尽览，让你运筹帷幄之中，决胜千里之外！", url: "https://v6.51.la/report/overview?comId=3092041", show: false },
 	],
 
-	statement: ["备案号：豫ICP备2024077903号", "Copyright © 2025 LuvGaze"],
+	statement: ["备案号：豫ICP备2024077903号", "Copyright © 2025 ShiAn"],
 }
 
 export default config
