@@ -67,7 +67,7 @@
 
           <v-card class="ma-5 pa-2 leleo-left-card" variant="tonal" :max-width="xs?270:300" style="text-align: center;">
             <template v-slot:title>
-              <span>🌟 LuvGaze 🌟</span>
+              <span>🌟 ShiAn 🌟</span>
             </template>
             <v-chip v-for="item in personalizedtags" density="compact" link class="ma-1" size="small">
               {{ item }}
