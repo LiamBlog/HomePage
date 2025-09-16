@@ -1,7 +1,7 @@
 <template>
   <div class="spinner-container">
     <div class="spinner"></div>
-    <p class="spinner-text">页面正在加载，请稍等<br>(づ￣3￣)づ╭❤～</p>
+    <p class="spinner-text">页面正在加载，请稍等.</p>
   </div>
 </template>
 
